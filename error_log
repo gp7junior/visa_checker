@@ -1,0 +1,370 @@
+[26-Mar-2019 18:06:37 Europe/London] PHP Warning:  include(includes/db.php): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 1
+[26-Mar-2019 18:06:37 Europe/London] PHP Warning:  include(): Failed opening 'includes/db.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 1
+[26-Mar-2019 18:06:37 Europe/London] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 3
+[26-Mar-2019 18:06:37 Europe/London] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 3
+[26-Mar-2019 18:06:37 Europe/London] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 5
+[26-Mar-2019 18:06:37 Europe/London] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 5
+[26-Mar-2019 18:07:40 Europe/London] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 3
+[26-Mar-2019 18:07:40 Europe/London] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 3
+[26-Mar-2019 18:07:40 Europe/London] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 5
+[26-Mar-2019 18:07:40 Europe/London] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 5
+[26-Mar-2019 18:09:24 Europe/London] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 3
+[26-Mar-2019 18:09:24 Europe/London] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 3
+[26-Mar-2019 18:09:24 Europe/London] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 5
+[26-Mar-2019 18:09:24 Europe/London] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 5
+[26-Mar-2019 18:09:45 Europe/London] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 3
+[26-Mar-2019 18:09:45 Europe/London] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 3
+[26-Mar-2019 18:09:45 Europe/London] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 5
+[26-Mar-2019 18:09:45 Europe/London] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 5
+[29-Mar-2019 09:56:47 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqi_error() in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php:14
+Stack trace:
+#0 /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php(45): showAllData()
+#1 {main}
+  thrown in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 14
+[29-Mar-2019 10:02:46 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqi_error() in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php:14
+Stack trace:
+#0 /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php(46): showAllData()
+#1 {main}
+  thrown in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 14
+[29-Mar-2019 10:19:54 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqi_error() in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php:14
+Stack trace:
+#0 /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php(46): showAllData()
+#1 {main}
+  thrown in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 14
+[29-Mar-2019 10:31:34 Europe/London] PHP Notice:  Undefined variable: connection in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 11
+[29-Mar-2019 10:31:34 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 11
+[29-Mar-2019 10:31:34 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqi_error() in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php:14
+Stack trace:
+#0 /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php(45): showAllData()
+#1 {main}
+  thrown in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 14
+[29-Mar-2019 10:36:28 Europe/London] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/read_rows.php on line 3
+[29-Mar-2019 10:36:28 Europe/London] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/read_rows.php on line 3
+[29-Mar-2019 10:36:28 Europe/London] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/read_rows.php on line 4
+[29-Mar-2019 10:36:28 Europe/London] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/read_rows.php on line 4
+[29-Mar-2019 10:36:28 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqi_error() in /home/visumzen/tmp.depro5.fcomet.com/project/read_rows.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/visumzen/tmp.depro5.fcomet.com/project/read_rows.php on line 18
+[29-Mar-2019 10:44:55 Europe/London] PHP Notice:  Undefined variable: connection in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 11
+[29-Mar-2019 10:44:55 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 11
+[29-Mar-2019 10:44:55 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqi_error() in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php:14
+Stack trace:
+#0 /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php(45): showAllData()
+#1 {main}
+  thrown in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 14
+[29-Mar-2019 10:56:57 Europe/London] PHP Notice:  Undefined variable: connection in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 11
+[29-Mar-2019 10:56:57 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 11
+[29-Mar-2019 10:56:57 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqi_error() in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php:14
+Stack trace:
+#0 /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php(46): showAllData()
+#1 {main}
+  thrown in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 14
+[29-Mar-2019 16:40:35 Europe/London] PHP Notice:  Undefined variable: connection in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 11
+[29-Mar-2019 16:40:35 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 11
+[29-Mar-2019 16:40:35 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqi_error() in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php:14
+Stack trace:
+#0 /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php(42): showAllData()
+#1 {main}
+  thrown in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 14
+[31-Mar-2019 11:18:16 Europe/London] PHP Notice:  Undefined index: country_code_orig in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 30
+[31-Mar-2019 11:18:16 Europe/London] PHP Notice:  Undefined index: country_code_orig in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 30
+[31-Mar-2019 11:18:16 Europe/London] PHP Notice:  Undefined index: country_code_orig in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 30
+[31-Mar-2019 11:21:34 Europe/London] PHP Notice:  Undefined variable: code_country_dest in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 50
+[31-Mar-2019 11:21:34 Europe/London] PHP Notice:  Undefined variable: code_country_dest in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 50
+[31-Mar-2019 11:21:34 Europe/London] PHP Notice:  Undefined variable: code_country_dest in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 50
+[31-Mar-2019 11:21:34 Europe/London] PHP Notice:  Undefined variable: code_country_dest in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 50
+[31-Mar-2019 11:21:34 Europe/London] PHP Notice:  Undefined variable: code_country_dest in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 50
+[31-Mar-2019 11:21:34 Europe/London] PHP Notice:  Undefined variable: code_country_dest in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 50
+[31-Mar-2019 13:10:35 Europe/London] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/visumzen/tmp.depro5.fcomet.com/project/form_process.php on line 25
+[31-Mar-2019 13:10:52 Europe/London] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/visumzen/tmp.depro5.fcomet.com/project/form_process.php on line 25
+[31-Mar-2019 13:10:58 Europe/London] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/visumzen/tmp.depro5.fcomet.com/project/form_process.php on line 25
+[31-Mar-2019 13:11:31 Europe/London] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/visumzen/tmp.depro5.fcomet.com/project/form_process.php on line 25
+[31-Mar-2019 13:12:46 Europe/London] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/visumzen/tmp.depro5.fcomet.com/project/form_process.php on line 24
+[31-Mar-2019 13:16:57 Europe/London] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/visumzen/tmp.depro5.fcomet.com/project/form_process.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/visumzen/tmp.depro5.fcomet.com/project/form_process.php on line 24
+[31-Mar-2019 13:18:19 Europe/London] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/visumzen/tmp.depro5.fcomet.com/project/form_process.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/visumzen/tmp.depro5.fcomet.com/project/form_process.php on line 24
+[31-Mar-2019 13:18:29 Europe/London] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/visumzen/tmp.depro5.fcomet.com/project/form_process.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/visumzen/tmp.depro5.fcomet.com/project/form_process.php on line 24
+[31-Mar-2019 13:21:11 Europe/London] PHP Notice:  Undefined variable: conn in /home/visumzen/tmp.depro5.fcomet.com/project/form_process.php on line 38
+[31-Mar-2019 13:21:11 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/visumzen/tmp.depro5.fcomet.com/project/form_process.php on line 38
+[31-Mar-2019 13:22:49 Europe/London] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/visumzen/tmp.depro5.fcomet.com/project/form_process.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/visumzen/tmp.depro5.fcomet.com/project/form_process.php on line 24
+[31-Mar-2019 13:34:57 Europe/London] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 5
+[31-Mar-2019 13:34:57 Europe/London] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 5
+[31-Mar-2019 13:34:57 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function formProcess() in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 73
+[31-Mar-2019 17:04:12 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 67
+[31-Mar-2019 17:04:12 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 67
+[31-Mar-2019 17:04:16 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 67
+[31-Mar-2019 17:04:16 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 67
+[31-Mar-2019 17:04:17 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 67
+[31-Mar-2019 17:04:17 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 67
+[31-Mar-2019 17:05:57 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 69
+[31-Mar-2019 17:05:57 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 69
+[31-Mar-2019 17:08:39 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 69
+[31-Mar-2019 17:08:39 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 69
+[31-Mar-2019 17:08:44 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 72
+[31-Mar-2019 17:08:44 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 72
+[31-Mar-2019 17:10:04 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 72
+[31-Mar-2019 17:10:04 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 72
+[31-Mar-2019 17:11:43 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:11:43 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:13:39 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:13:39 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:15:28 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:15:28 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:15:31 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:15:31 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:15:34 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:15:34 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:15:44 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:15:44 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:15:46 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:15:46 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:16:31 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:16:31 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:17:45 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:17:45 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:18:06 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:18:06 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:18:08 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:18:08 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:18:25 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:18:25 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:18:28 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:18:28 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:18:29 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:18:29 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 78
+[31-Mar-2019 17:20:01 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:20:01 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:20:03 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:20:03 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:20:39 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:20:39 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:20:42 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:20:42 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:21:07 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 76
+[31-Mar-2019 17:21:07 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 76
+[31-Mar-2019 17:21:08 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 76
+[31-Mar-2019 17:21:08 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 76
+[31-Mar-2019 17:21:33 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:21:33 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:21:36 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:21:36 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:21:37 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:21:37 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:21:58 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:21:58 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:22:04 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:22:04 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:24:46 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:24:46 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:25:23 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:25:23 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:25:56 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:25:56 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:28:59 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:28:59 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:29:01 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:29:01 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:29:22 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:29:22 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:29:28 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:29:28 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:30:29 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:30:29 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:30:39 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:30:39 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:30:40 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:30:40 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:30:41 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:30:41 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:30:48 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:30:48 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:30:49 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:30:49 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:31:20 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:31:20 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:31:29 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:31:29 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:32:19 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:32:19 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:32:37 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:32:37 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:32:47 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:32:47 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:33:48 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:33:48 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:34:02 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:34:02 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:34:04 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:34:04 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:34:06 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:34:06 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:35:21 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:35:21 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:35:24 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:35:24 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:35:44 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:35:44 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:36:03 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:36:03 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:37:04 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:37:04 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:37:33 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:37:33 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:37:35 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:37:35 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 75
+[31-Mar-2019 17:38:18 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 77
+[31-Mar-2019 17:38:18 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 77
+[31-Mar-2019 17:38:42 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:38:42 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:38:59 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:38:59 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:42:31 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:42:31 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:42:43 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:42:43 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:47:26 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:47:26 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:53:35 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:53:35 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:58:34 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:58:34 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:58:53 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:58:53 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:58:58 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:58:58 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:59:25 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 17:59:25 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 79
+[31-Mar-2019 18:00:58 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 82
+[31-Mar-2019 18:00:58 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 82
+[31-Mar-2019 18:01:31 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 82
+[31-Mar-2019 18:01:31 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 82
+[31-Mar-2019 18:02:09 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 83
+[31-Mar-2019 18:02:09 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 83
+[31-Mar-2019 18:02:20 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 83
+[31-Mar-2019 18:02:20 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 83
+[31-Mar-2019 18:02:22 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 83
+[31-Mar-2019 18:02:22 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 83
+[31-Mar-2019 18:02:58 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 84
+[31-Mar-2019 18:02:58 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 84
+[31-Mar-2019 18:03:16 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 84
+[31-Mar-2019 18:03:16 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 84
+[31-Mar-2019 18:03:33 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 84
+[31-Mar-2019 18:03:33 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 84
+[31-Mar-2019 18:03:35 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 84
+[31-Mar-2019 18:03:35 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 84
+[31-Mar-2019 18:04:40 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 86
+[31-Mar-2019 18:04:40 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 86
+[31-Mar-2019 18:05:06 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 86
+[31-Mar-2019 18:05:06 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 86
+[31-Mar-2019 18:05:13 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 86
+[31-Mar-2019 18:05:13 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 86
+[31-Mar-2019 18:05:17 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 86
+[31-Mar-2019 18:05:17 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 86
+[31-Mar-2019 18:05:19 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 86
+[31-Mar-2019 18:05:19 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 86
+[31-Mar-2019 18:06:05 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 86
+[31-Mar-2019 18:06:05 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 86
+[31-Mar-2019 18:06:23 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 86
+[31-Mar-2019 18:06:23 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 86
+[31-Mar-2019 18:07:04 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 82
+[31-Mar-2019 18:07:04 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 82
+[31-Mar-2019 18:09:02 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 82
+[31-Mar-2019 18:09:02 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 82
+[31-Mar-2019 18:09:04 Europe/London] PHP Warning:  include(/icons/world.svg): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 82
+[31-Mar-2019 18:09:04 Europe/London] PHP Warning:  include(): Failed opening '/icons/world.svg' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 82
+[31-Mar-2019 18:22:55 Europe/London] PHP Notice:  Use of undefined constant form_check_visa - assumed 'form_check_visa' in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 32
+[31-Mar-2019 18:22:55 Europe/London] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 32
+[31-Mar-2019 18:22:55 Europe/London] PHP Warning:  include(form_check_visaphp): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 32
+[31-Mar-2019 18:22:55 Europe/London] PHP Warning:  include(): Failed opening 'form_check_visaphp' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 32
+[31-Mar-2019 18:22:58 Europe/London] PHP Notice:  Use of undefined constant form_check_visa - assumed 'form_check_visa' in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 32
+[31-Mar-2019 18:22:58 Europe/London] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 32
+[31-Mar-2019 18:22:58 Europe/London] PHP Warning:  include(form_check_visaphp): failed to open stream: No such file or directory in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 32
+[31-Mar-2019 18:22:58 Europe/London] PHP Warning:  include(): Failed opening 'form_check_visaphp' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/visumzen/tmp.depro5.fcomet.com/project/index_gts.php on line 32
+[31-Mar-2019 19:50:45 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 47
+[31-Mar-2019 19:54:03 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 47
+[31-Mar-2019 19:54:05 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 47
+[31-Mar-2019 19:54:11 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 47
+[31-Mar-2019 19:55:43 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 47
+[31-Mar-2019 20:29:35 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 50
+[31-Mar-2019 20:30:20 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 50
+[31-Mar-2019 20:33:56 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 50
+[31-Mar-2019 20:33:58 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 50
+[31-Mar-2019 20:33:59 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 50
+[31-Mar-2019 20:36:26 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 50
+[31-Mar-2019 20:36:28 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 50
+[31-Mar-2019 20:37:59 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 50
+[31-Mar-2019 21:00:43 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 45
+[31-Mar-2019 21:00:52 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 45
+[01-Apr-2019 08:27:31 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:27:48 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 40
+[01-Apr-2019 08:28:18 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 40
+[01-Apr-2019 08:28:29 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:28:34 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 40
+[01-Apr-2019 08:32:17 Europe/London] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 08:32:25 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:32:31 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 08:34:40 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 08:34:55 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:36:04 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:36:13 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:39:11 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:39:26 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:39:37 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:40:31 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:40:34 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:40:48 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 08:42:48 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 08:43:03 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 08:43:33 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 08:43:37 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 08:43:50 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 08:44:54 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:46:06 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:46:19 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:46:41 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:50:57 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:51:40 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:52:01 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 08:53:22 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 08:53:34 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:55:37 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:55:43 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:55:49 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:55:53 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 08:55:57 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:56:42 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:56:45 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:57:02 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:57:06 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 08:57:15 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 09:01:47 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 09:01:59 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 09:09:04 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 09:09:39 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 09:10:12 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 09:10:28 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 09:10:39 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 38
+[01-Apr-2019 09:12:09 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 09:12:14 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 09:16:06 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 09:16:13 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 09:33:48 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 09:35:55 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 09:35:56 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 09:36:01 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
+[01-Apr-2019 09:42:29 Europe/London] PHP Notice:  Undefined variable: card_text in /home/visumzen/tmp.depro5.fcomet.com/project/functions.php on line 41
